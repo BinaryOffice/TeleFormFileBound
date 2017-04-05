@@ -10,6 +10,6 @@ Open your form in TeleForm Designer and select Form -> Auto Export Setup. From t
 
 
 ## Support
-This connect agent only works with hosted FileBound sites. Please contact Upland support for help configuring On-Premise FileBound Rest API.
+This connect agent only works with hosted FileBound sites. If you need an On-Premise Connect Agent, [please let us know](https://github.com/BinaryOffice/TeleFormFileBound/issues)
 
 This software is provided as is. If you would like to purchase a support contract, please email sales@binaryoffice.com or call us at 480 970 6900
