@@ -1,4 +1,6 @@
 # TeleForm Connect Agent for FileBound
+## About
+Configure TeleForm to export forms an images into your FileBound hosted site.
 
 ## Install
 Place the FileBound Hosted.vbe file in the scripts folder on your TeleForm system. 
